@@ -1,0 +1,12 @@
+ .van-picker-column{font-size:28px;}
+ .van-picker__cancel{font-size:28px;color:#000}
+ .van-picker__confirm{font-size:28px;color:#000}
+ .van-picker__toolbar{height:60px;line-height:60px;border-bottom:2px solid rgba(153, 153, 153, 0.35);}
+ /* .van-picker-column__item--selected{background:#f4f4f4} */
+ .van-field__control{text-align:center;}
+ .van-cell{font-size:32px;line-height:80px;border-radius:10px;text-align:center;}
+ .van-cell-group{border-radius:10px;}
+.van-nav-bar{height:100px;line-height:100px;background:#f4f4f4;}
+.van-nav-bar__title{font-size:32px;color:#000;}
+.van-nav-bar .van-icon{font-size:32px;color:#000;}
+.van-nav-bar__right .van-nav-bar__text{font-size:32px;color:#000;}
